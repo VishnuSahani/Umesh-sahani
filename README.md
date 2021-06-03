@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Angular Freamwork
 - 💞️ I’m looking to collaborate on TCS 
-- 📫 How to reach me ... 8299451822
+- 📫 How to reach me ... umeshsahani1998@gmail.com
 
 <!---
 Umesh-sahani/Umesh-sahani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
